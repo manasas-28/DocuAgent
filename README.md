@@ -3,8 +3,7 @@
 
 **DocuAgent** is an intelligent, agentic Retrieval-Augmented Generation (RAG) assistant that allows users to upload documents or paste raw text to have precise, context-aware conversations with their data. Powered by fast LLM inference, it breaks down text into manageable chunks and extracts answers backed by verifiable source citations.
 
-### 🔗 [⚡ Click Here for the Live Demo](https://56783e4f-f8a1-47a9-8d9e-9cfddce79a28-00-151bs37li56ub.sisko.replit.dev/)
-
+### 🔗 [⚡ Click Here for the Live Demo](https://docu-agent--manasaaas.replit.app/)
 ---
 
 ## 🚀 Quick Start Example (Try It in 30 Seconds)
